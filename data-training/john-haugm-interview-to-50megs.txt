@@ -1,0 +1,42 @@
+[
+  {
+    "question": "I'd like to start off by saying that I'm not really interested in giving our readers a complete history of Agalloch - for those who are interested in such things all of this information can be found in other places. I came to your band after I read your interview in the Lamentations of the Flame Princess zine that Jim Raggi puts out from Atlanta, and I was intrigued enough to risk buying your CD from the label people at the Milwaukee Metalfest without listening to it first. I was surprised by its evocative and atmospheric nature, and above all by the concentration it shows in delineating or setting down certain definite points of departure from traditional American metal. All of this was highly attractive to me. I'm going to start by assuming that you don't really consider yourself part of any one scene or style, do you? What made you concentrate so much on creating an original sound? Why is that important to you? What dangers do musicians in metal face when they branch out and try to write original material?",
+    "answer": "Hmmm....well I guess we are currently a part of the metal scene whether we like it or not. We are, afterall, a metal band even though we explore many different styles under the dark curtain. All of us listen to a variety of music including; metal, apocalyptic folk, electronic, classical, ambient/darkwave, techno, and so on. We've never really been all that gung - ho about originality. Breyer and I just wanted to form a band that explored various emotions and expressed ourselves honestly. This, ideally, attracted the other two members (Anderson and J. William). I personally think that what we're doing isn't as original as you (and many others) make us out to be. There are many bands that use similar aesthetics even more effectively than we do. In The woods... is a good example of one of those bands. Of course, this is just my opinion and it is true that artists are never completely satisfied with what they do. Therefore my opinion about ourselves is, more or less, worthless to the listener. The only danger I see with trying to do something new and original in the metal scene is the bad criticism from close-minded metalheads. We have recieved such criticism from a few and I really don't care about it. I don't put much stock in what your average, gung-ho metalhead loser thinks..."
+  },
+  {
+    "question": "I remember reading in a separate interview with friends of yours that you tend to concentrate on imagery or the evocation of specific visual effects in your music - and that this is one of the most important parts, to you, of the power of Agalloch's music. Is this a vital part of writing 'atmospheric' music - appealing to other senses in the composition of material? Do you consciously try to summon images or memories while writing the music, or is imagery just very inspirational to you? What scenes or memories are you trying to communicate through music? How is it possible for your music to communicate things like this?",
+    "answer": "Yes it's true that I write from a more visual aspect. I also listen to music this way. I think good music should appeal to many different senses and emotions. A band can be atmospheric as hell but still be very bland. I like to listen to music in a way so that it fits with certain situations. For example, electronic music (like Coil or the new Ulver) is great to listen to while working on the computer, sipping coffee. That, of course, also depends on my mood. I also tend to listen to a lot of music while driving and different scenery can certainly bring out more elements. Depeche Mode or Sisters of Mercy is great city-driving music. Of course, majestic ambient, folk or dark/black metal stuff is great to listen to while driving through the woods. On the other hand, when I traveled up to Mt Hood to take the wintery photographs for the CD layout, I listened to Cocteau Twins "Four Calendar Cafe" and it went marvelously well with the frozen scenery. This is all subjective of course. So yes, imagery is VERY important to me. Memories? Sure....nostalgia is another great source of inspiration. It doesn¹t really matter what the memory is so much as it makes me feel a certain way (be it bitter or sweet) and, thus, creates the canvas..."
+  },
+  {
+    "question": "I have noticed that so far, and despite the eager attempts of various music 'journalists', it has been almost impossible for your band to be labeled or categorized according to the prevailing genres that metal is always divided into. Is this a source of satisfaction for you? Do you think that Agalloch will be able to escape categorization like this in the future? Would you be amused if they had to invent a new genre for your band? In your experience, how do musicians react to categorization?",
+    "answer": "Someone has actually called our music 'grey metal'. I don't understand it and I'm not amused by it. I mean you might as well call us 'brown metal' or 'dirty purple metal'. It's stupid. Do we really need to fit within the standards of a certain genre just so we can make these journalists' lives easier? In my experience, it seems that many musicians are eager to find an immediate categorization, try to fit within it, and then they eventually grow out of it. I'm certain this isn't the case with everyone though..."
+  },
+  {
+    "question": "In defining a new sound, there is always a certain amount of precariousness in gaining listeners, but after this has been done, and you have a concrete identity in the minds of the 'public', it is almost inevitable (if you are truly original) that there will be bands trying to derive a formula from your music and then appropriating it for themselves. How would you react to bands who did this to you? Would it flatter you or make you angry? Is there a way to escape this cycle?",
+    "answer": "Well like many others, we have our musical influences (Ulver, Katatonia, In The Woods..., etc). I do think we make use of our influences wisely and still manage to have a somewhat unique sound. I don't really think we have anything that other bands could borrow from us that hasn't already been borrowed from other bands. Not yet anyway. I'm trying more and more to compose from my visual and emotional influences more so than the musical ones."
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+]
