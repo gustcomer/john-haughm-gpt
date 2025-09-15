@@ -2,3 +2,7 @@
 description: John Haugm Interview to 50megs
 date: unknown
 url: http://panzer.users5.50megs.com/articles/Erebus/Agalloch.htm
+
+description: Short Interview with Agalloch for Pitchfork
+date: 2012/July/6
+url: https://pitchfork.com/features/show-no-mercy/8886-longform/
