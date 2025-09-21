@@ -11,6 +11,10 @@ description: Interview on The Silence of Forgotten Landscapes DVD
 date: 2009-October-10
 url: https://www.youtube.com/watch?v=T95NrgijGBo
 
+description: John Interview in Romania
+date: 2010-April-13
+url: https://www.youtube.com/watch?v=4hyMjcYVix0&t=4s
+
 description: Short Interview with Agalloch for Pitchfork
 date: 2012-July-6
 url: https://pitchfork.com/features/show-no-mercy/8886-longform/
